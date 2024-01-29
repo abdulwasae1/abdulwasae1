@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdulwasae1](https://github.com/abdulwasae1)
 
-- 💬 Ask me about **Vue.js, JavaScript, HTML, CSS, BOOTSTRAP, Quasar**
+- 💬 Ask me about **Vue.js, JavaScript, HTML, CSS, BOOTSTRAP, Quasar, React, Storybook, Shadcn ui, Redux, Tailwind css, Python**
 
 - 📫 How to reach me **abdulwasae1@gmail.com**
 
