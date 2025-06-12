@@ -1,20 +1,20 @@
 <img align="right" alt="coding" src="https://github.com/abdulwasae1/abdulwasae1/blob/main/positive%20vibes%20(1).png">
 <h1 align="center">Hi 👋, I'm ABDUL WASAE</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulwasae1&label=Profile%20views&color=0e75b6&style=flat" alt="abdulwasae1" /> </p>
 
-- 🌱 I’m currently learning **Quasar Framework (Vue.js), Front-end integration**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **Front-end Web Development**
 
-- 🤝 I’m looking for help with **Projects**
+- 🤝 I’m looking for a **Reward Based Challange**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdulwasae1](https://github.com/abdulwasae1)
 
-- 💬 Ask me about **Vue.js, JavaScript, HTML, CSS, BOOTSTRAP, Quasar, React, Storybook, Shadcn ui, Redux, Tailwind css, Python**
+- 💬 Ask me about **React, Storybook, Shadcn ui, Redux, Tailwind css, Python, FastAPI, Vue.js, JavaScript, HTML, CSS, BOOTSTRAP, Quasar**
 
 - 📫 How to reach me **abdulwasae1@gmail.com**
 
