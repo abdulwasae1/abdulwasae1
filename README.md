@@ -65,7 +65,7 @@ Passionate Full Stack AI Engineer from Pakistan with expertise in building scala
 
 ## 🌟 Featured Projects
 
-### 🎬 [Trimix: Cut, Clip, Create](https://github.com/abdulwasae1) (Oct 2024 - Present)
+### 🎬 [Trimix: Cut, Clip, Create](https://github.com/abdulwasae1) (Oct 2024 - May 2025)
 **Final Year Project | Lead Developer**
 - Built web-based platform automating video segmentation, transcription, and editing
 - **Tech Stack**: ReactJS, TypeScript, Tailwind CSS, FastAPI, PostgreSQL, Whisper, LLaMA 3.3
